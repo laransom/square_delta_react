@@ -1,4 +1,4 @@
-# Simple Sign Up Challenge
+# Square Delta Client
 
 This README outlines the details for building and deploying Square Delta
 
